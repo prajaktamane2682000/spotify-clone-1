@@ -23,7 +23,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    height: 570px;
+    height: 580px;
 }
 
 .side-bar .logo img {
